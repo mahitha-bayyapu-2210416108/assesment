@@ -1,0 +1,49 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    margin-bottom: 10px;
+    height: 40px;
+    width: "100%"
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+  }
+.result{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+}
+.rating-row {
+    margin-top: -100px; 
+    border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.main{
+    margin: 50px;
+}
+.custom-button {
+    background-color: white;
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    height: 40px;
+  border-radius: 4px;
+    
+}
+  
